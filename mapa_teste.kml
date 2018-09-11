@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Açaí</name>
+    <Style id="icon-1899-9C27B0-nodesc-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-nodesc-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Energy Açaí</name>
+      <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.27041,-25.4352976,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Açaí & Cia]]></name>
+      <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.3292729,-25.4777378,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Açai</name>
+      <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.2076491,-25.4505273,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AÇAI VILLA ROXA</name>
+      <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.2673815,-25.4381578,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Açai Villa Roxa</name>
+      <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.2848955,-25.4347093,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cantinho do Açai</name>
+      <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.265619,-25.388548,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trilha Do Açaí</name>
+      <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.2517462,-25.4225569,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Açaí Concept Batel</name>
+      <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.2852341,-25.4395272,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Garagem do Açaí - Curitiba</name>
+      <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.214912,-25.458566,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yaçá Mix de Açai</name>
+      <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.29068,-25.478014,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
